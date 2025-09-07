@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Hyphen Fighter'
+theme = 'hugo-theme-hello-4s3ti'
